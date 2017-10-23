@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07- arva number randomiga",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-excuses", "08-excuses\08-excuses.csproj", "{B287AFA7-828B-45B3-9243-DEA6F5AA18BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-", "09-\09-.csproj", "{504458D3-C4FD-44C1-9D39-008B8C83C103}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B287AFA7-828B-45B3-9243-DEA6F5AA18BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B287AFA7-828B-45B3-9243-DEA6F5AA18BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B287AFA7-828B-45B3-9243-DEA6F5AA18BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504458D3-C4FD-44C1-9D39-008B8C83C103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504458D3-C4FD-44C1-9D39-008B8C83C103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504458D3-C4FD-44C1-9D39-008B8C83C103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504458D3-C4FD-44C1-9D39-008B8C83C103}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
